@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media Caster</string>
+    <string name="duvitech_media_route_provider_service">Duvitech Media Routing Service</string>
+    <string name="variable_volume_basic_route_name">Duvitech Media Route</string>
+    <string name="sample_route_description">Video Route</string>
+    <string name="media_route_menu_title">Cast To</string>
+</resources>
